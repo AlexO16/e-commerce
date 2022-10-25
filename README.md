@@ -14,7 +14,7 @@
   * [Credits](#credits)
 
   # Screenshot
-  
+  ![Screen Shot 2022-10-24 at 10 03 00 PM](https://user-images.githubusercontent.com/110851664/197672424-bc14f18e-5a3f-4e11-b598-ab6c1072ac7c.png)
 
   # Installation
   Clone the repo, install node dependencies see package.json for dependencies, seed the database and then start the app.
